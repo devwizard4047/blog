@@ -120,4 +120,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-ALLOWED_HOSTS = ['127.0.0.1', 'devwizard4047.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'devwizard4047.pythonanywhere.com', 'https://devblog4047.herokuapp.com/']
